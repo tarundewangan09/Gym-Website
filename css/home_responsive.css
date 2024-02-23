@@ -1,0 +1,409 @@
+@media only screen and (max-width:1250px) {
+    .fifth-bgimage-wrapper {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width:1050px) {
+    .review-img-size {
+        object-fit: cover;
+        height: 350px;
+        width: 230px;
+    }
+}
+
+@media only screen and (max-width:950px) {
+    .card-btn-3 {
+        font-size: 18px;
+    }
+
+    .sub-cards {
+        padding: 25px;
+    }
+
+    .fifth-bgimage-wrapper {
+        width: 85%;
+    }
+    .footer {
+        flex-direction: column;
+        padding: 40px 0;
+
+    }
+
+    .first_container_footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        padding: 30px 0px;
+        width: 100%;
+    }
+
+    .second_container_footer {
+        width: 100%;
+    }
+
+    .third_container_footer {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:850px) {
+    .card-btn-3 {
+        font-size: 15px;
+    }
+
+    .grid-container {
+        width: 95%;
+    }
+
+    .div-club-info {
+        width: 80%;
+        left: 10%;
+    }
+
+    .review-img-size {
+        object-fit: cover;
+        height: 300px;
+        width: 200px;
+    }
+       .footer {
+        flex-direction: column;
+        padding: 40px 0;
+
+    }
+
+    .first_container_footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        padding: 30px 0px;
+        width: 100%;
+    }
+
+    .second_container_footer {
+        width: 100%;
+    }
+
+    .third_container_footer {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width:730px) {
+    .container {
+        height: 600px;
+    }
+
+    .container_title {
+        width: 80%;
+        height: 400px;
+        top: 170px;
+        background-color: transparent;
+    }
+
+    .container_title h1 {
+        font-size: 50px;
+
+        padding: 15px 30px 0 75px;
+    }
+
+    .popup_container {
+        display: none;
+    }
+
+    .third-card-wrapper {
+        flex-direction: column;
+
+    }
+
+    .third-card-wrapper .cards {
+        margin: 20px;
+        width: 45%;
+        height: 270px;
+    }
+
+    .cards .cards-div .price,
+    .sameAsPrice {
+        font-size: 30px;
+    }
+
+    .grid-container {
+        grid-template-columns: auto auto;
+
+    }
+
+    .grid-container div:nth-child(1) {
+        border: none;
+    }
+
+    .grid-container div:nth-child(2) {
+        border: none;
+    }
+
+    .grid-container div:nth-child(3) {
+        border: none;
+    }
+
+    .grid-container div:nth-child(4) {
+        border: none;
+
+    }
+
+    .grid-container div:nth-child(5) {
+        border: none;
+    }
+
+    .grid-container div:nth-child(6) {
+        border: none;
+    }
+
+    .container_plans {
+        padding: 2rem;
+
+
+    }
+
+    .div-club-info {
+        flex-direction: column;
+        width: 50%;
+        left: 25%;
+    }
+
+    .sub-cards {
+        width: 85%;
+    }
+
+    .sub-cards-img {
+        width: 50%;
+    }
+
+    .sub-cards .title {
+        font-size: 23px;
+    }
+
+    .sub-cards .scpara {
+        font-size: 18px;
+    }
+
+    .fifth-card-wrapper {
+        flex-direction: column;
+    }
+
+    .review-cards {
+        flex-direction: row;
+        width: 100%;
+    }
+
+    .review-img-size {
+        object-fit: cover;
+        height: 250px;
+        width: 150px;
+        margin: 20px;
+        border-radius: 25px;
+    }
+
+    .footer {
+        flex-direction: column;
+        padding: 40px 0;
+
+    }
+
+    .first_container_footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        padding: 30px 0px;
+        width: 100%;
+    }
+
+    .second_container_footer {
+        width: 100%;
+    }
+
+    .third_container_footer {
+        width: 100%;
+    }
+
+}
+
+
+@media only screen and (max-width:600px) {
+    .container {
+        height: 450px;
+    }
+
+    .container_title {
+        width: 80%;
+        height: 350px;
+        top: 150px;
+        background-color: transparent;
+    }
+
+    .container_title h1 {
+        font-size: 40px;
+        padding: 15px 30px 0 30px;
+    }
+
+    .container_title p {
+        padding: 0px 0 0 35px;
+    }
+
+    .btn_get {
+        width: 150px;
+        font-size: 15px;
+        height: 40px;
+        margin: 40px 30px 0px 35px;
+    }
+
+    .btn_free {
+        width: 150px;
+        font-size: 15px;
+        height: 40px;
+    }
+
+    .container_plans h1 {
+        font-size: 35px;
+    }
+
+    .grid-container {
+        margin: 0 auto;
+    }
+
+    .grid-item {
+        padding: 25px;
+        font-size: 25px;
+    }
+    .review-para {
+    text-align: justify;
+    }
+
+    .subscription-heading h1 {
+        font-size: 35px;
+        padding-bottom: 35px;
+    }
+
+    .third-card-wrapper .cards {
+        margin: 20px;
+        width: 50%;
+        height: 270px;
+    }
+
+    .fitness_img {
+        height: 300px;
+        object-fit: cover;
+    }
+
+    .fifth-bgimage-wrapper h3 {
+        font-size: 35px;
+        color: #FFA500;
+        padding-bottom: 36px;
+    }
+
+    .footer {
+        padding-top: 0;
+    }
+    .block_footer{
+        display: block;
+    }
+    .second_div_first_container h2 {
+        display: none;
+    }
+
+    .second_div_second_container {
+        display: none;
+    }
+
+    .second_div_third_container {
+        display: none;
+    }
+    .second_div_first_container_li .none {
+        display: none;
+    }
+    .second_div_first_container_li li {
+        padding: 8px 0;
+    }
+    .third_container_footer h3 {
+        font-size: 30px;
+    }
+}
+@media only screen and (max-width:465px) {
+    .container {
+        height: 400px;
+    }
+
+    .container_title {
+        top: 10%;
+        width: 70%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+
+    .container_title h1 {
+        font-size: 30px;
+        padding: 0px ;
+    }
+
+    .container_title p {
+        padding: 0px ;
+        font-size: 17px;
+        display: contents;
+    }
+
+    .btn_get {
+        width: 130px;
+        font-size: 13px;
+        height: 35px;
+        margin: 20px 0px;
+    }
+
+    .btn_free {
+        width: 130px;
+        font-size: 13px;
+        height: 35px;
+    }
+
+    .container_plans h1 {
+        font-size: 30px;
+    }
+    .sub-cards .title {
+        font-size: 20px;
+    }
+    .sub-cards .scpara {
+        font-size: 15px;
+    }
+    .container_plans h1 {
+        font-size: 30px;
+    }
+    .grid-item {
+        padding: 10px 5px;
+        font-size: 18px;
+    }
+    .third-card-wrapper .cards {
+        margin: 20px;
+        width: 60%;
+    }
+    .div-club-info {
+        width: 60%;
+        left: 20%;
+    }
+    .review-img-size {
+        height: 200px;
+    }
+    .first_container_footer h3 {
+        padding: 0px 20px;
+    } 
+    .fitness_img {
+        height: 200px;
+    
+    }
+}

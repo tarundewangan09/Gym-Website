@@ -1,0 +1,124 @@
+.img-container {
+    margin-bottom: 30px;
+    /* width: 230px; */
+}
+
+.Supplement{
+   height: 700px;
+}
+    
+.page2-class-timing{
+    background-image: url("/images/pexels-taryn-elliott-4099238.jpg") ;
+    background-size: cover;
+     background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: blur(3px);
+    height: 100%;
+    z-index: 1;
+    opacity: 0.65;
+
+}
+.page2-classTiming-wrapper {
+    height: 90%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 43pc;
+    
+}
+
+.page2-btn-1 {
+    height: 40px;
+    background-color: rgba(255, 165, 0, 1);
+    color:rgba(0, 0, 0, 1);
+
+}
+
+
+.classes-heading {
+    color: rgb(15, 11, 11);
+    font-size: 2.5vw;
+    letter-spacing: 1px;
+    border-bottom: 2px solid rgb(6, 5, 5);
+    margin-bottom: 40px;
+    padding: 10px 0;
+}
+
+.traning_heading{
+    border: none;
+}
+.our_traning{
+    background-image: url("/images/pexels-taryn-elliott-4099238.jpg") ;
+    background-size: cover;
+     background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: blur(3px);
+    height: 100%;
+    margin: 0;;
+    z-index: 1;
+    opacity: 0.75;
+}
+
+.bg_traning{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    bottom: 45pc    ;
+    z-index: 2;
+    
+}
+.weight{
+    height: 700px;
+}
+.traning_btn{
+    height: 40px;
+    background-color: rgba(255, 165, 0, 1);
+    color:rgba(0, 0, 0, 1);
+    font-weight: 500;
+    font-size: 18px;
+    width: 250px;
+}
+
+
+.weight_bg{
+    background-image: url("/images/dumbell.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: blur(3px);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    z-index: 1;
+    opacity: 0.75;
+}
+.Apparel_bg{
+    background-image: url("/images/keagan-henman-xPJYL0l5Ii8-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    filter: blur(3px);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    z-index: 1;
+    opacity: 0.75;
+
+}
+.traning_heading h1{
+    border-bottom: 2px solid black;
+}
+
